@@ -1,0 +1,9 @@
+/.vs/
+
+/bin/
+
+/CoreDLL/x64/
+/CoreDLL/Win32/
+
+/MainApplication/x64/
+/MainApplication/Win32/
